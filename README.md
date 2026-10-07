@@ -1,6 +1,6 @@
 # daily-market-pulse
 
-An automated daily market journal. Every morning, a snapshot of the tape goes up:
+Daily market journal. Every morning, a snapshot of the tape goes up:
 S&P 500, Nasdaq, Dow, the 10-year Treasury yield, VIX, Bitcoin, and crude oil —
 plus a short take on what's moving and why.
 
