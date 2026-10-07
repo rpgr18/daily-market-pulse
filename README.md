@@ -1,8 +1,12 @@
 # daily-market-pulse
 
-Daily market journal. Every morning, a snapshot of the tape goes up:
-S&P 500, Nasdaq, Dow, the 10-year Treasury yield, VIX, Bitcoin, and crude oil —
-plus a short take on what's moving and why.
+An automated daily market journal. Two commits a day:
 
-Snapshots live in `snapshots/YYYY-MM-DD.md`. Data is pulled fresh each morning;
-numbers are intraday at time of writing unless noted as closes.
+- **Morning** — `snapshots/YYYY-MM-DD.md`: the tape. S&P 500, Nasdaq, Dow, the
+  10-year Treasury yield, VIX, Bitcoin, and crude oil, plus a short take on
+  what's moving and why.
+- **Evening** — `news/YYYY-MM-DD.md`: the day's markets and AI/tech news,
+  curated to the stories that matter, plus a few YouTube videos worth watching.
+
+Numbers are intraday at time of writing unless noted as closes. News items link
+to their sources.
